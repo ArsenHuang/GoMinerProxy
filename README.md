@@ -74,5 +74,5 @@ screen -r go_miner_proxy
 * [NodeJs](https://nodejs.org/) + [GitBook](https://www.gitbook.com/)
 * [Vue.JS](https://vuejs.org/) + [vue-element](https://panjiachen.github.io/vue-element-admin-site/zh/)
 
-## :scroll: 开发抽水
+## :scroll: 開發抽水
 * 恆定0.3%
