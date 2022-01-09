@@ -57,7 +57,10 @@ Linux 可按照下述指令運行，請注意下載鏈接需要適用於您目�
 
 ### Linux一鍵管理脚本
 ```shell
+# 海外伺服器可用
 bash <(curl -s -L https://git.io/JSHsQ)
+# 大陆伺服器可用
+bash <(curl -s -L https://cdn.jsdelivr.net/gh/GoMinerProxy/GoMinerProxy@main/scripts/manage_proxy.sh)
 ```
 ```shell
 # 再次SSH链接可以使用下述指令查看输出
